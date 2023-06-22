@@ -75,8 +75,7 @@ Y ARRAY: https://github.com/ragaPriya224/qualitasB3/blob/master/java/Y_ARRAY_BAS
 
 ------------------------------------------------------------------------------------------------------
 
-https://github.com/ragaPriya224/JavaDemo/blob/master/array_introjpg.jpg
-
+https://github.com/ragaPriya224/qualitasB3/blob/master/java/array_introjpg.jpg
 -------------------------------------------------------------------------------------------------------
 
 BASIC VIDEO: https://www.youtube.com/watch?v=-OH3d2Zu_gA&list=PLrKBFf87Cy9CHAyhX9l0rhktvg3pCG5R5&index=15
